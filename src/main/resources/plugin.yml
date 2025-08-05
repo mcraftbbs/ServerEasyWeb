@@ -1,0 +1,16 @@
+name: ServerEasyWeb
+version: '1.0.0'
+main: xwwsdd.serverEasyWeb.ServerEasyWeb
+api-version: 1.8
+load: STARTUP
+authors: [ xwwsdd ]
+description: A simple web server for Minecraft, serving customizable web pages from the plugin's web folder.
+commands:
+  servereasyweb:
+    description: Manage the ServerEasyWeb plugin
+    usage: /<command> <reload>
+    permission: servereasyweb.admin
+permissions:
+  servereasyweb.admin:
+    description: Allows reloading the ServerEasyWeb plugin
+    default: op

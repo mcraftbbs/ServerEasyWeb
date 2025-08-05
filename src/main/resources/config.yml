@@ -1,0 +1,6 @@
+
+# Web server port (default: 8080)
+web-port: 8080
+
+# Enable checking for updates on GitHub
+check-updates: true
