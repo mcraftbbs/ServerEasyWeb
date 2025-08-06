@@ -1,3 +1,5 @@
+![GitHub Views](https://komarev.com/ghpvc/?username=mcraftbbs&repo=ServerEasyWeb&label=Views)
+
 # ServerEasyWeb
 
 A lightweight Minecraft plugin that serves customizable web pages from a local folder, allowing server owners to create a custom web interface for their Minecraft server. Built for compatibility with Minecraft 1.8–1.21 and Java 8–21, it uses Jetty to serve static files (HTML, CSS, JS) from `plugins/ServerEasyWeb/web/`.
@@ -109,5 +111,6 @@ If issues occur:
 3. Find the JAR in `build/libs/ServerEasyWeb-1.0.0.jar`.
 
 ## License
+
 
 MIT License. See [LICENSE](https://github.com/mcraftbbs/ServerEasyWeb?tab=MIT-1-ov-file) for details.
